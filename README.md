@@ -10,8 +10,8 @@ pandas for data storage and manipulation.
 
 pip install requirements.txt
 
-Run python scrap.py
+Run python scrape.py
 
 ## Next Steps
 
-* Create statistical model calculate best plays
+* Create statistical model to calculate best plays
